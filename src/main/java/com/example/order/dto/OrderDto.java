@@ -2,6 +2,7 @@ package com.example.order.dto;
 
 import lombok.Getter;
 import lombok.Setter;
+import org.springframework.cloud.openfeign.FeignClient;
 
 @Getter
 @Setter
